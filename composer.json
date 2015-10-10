@@ -1,0 +1,17 @@
+{
+  "name": "lmolight/lmolight",
+  "type": "library",
+  "description": "A simple API for LMO.",
+  "keywords": [],
+  "homepage": "",
+  "license": "",
+  "authors": [],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "LmoLight": "src"
+    }
+  }
+}
