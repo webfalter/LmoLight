@@ -1,8 +1,17 @@
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/webfalter/LmoLight.git"
+    "name": "webfalter/lmolight",
+    "description": "Sample project",
+    "homepage": "",
+    "repositories": [{
+    "type": "package",
+    "package": {
+        "name": "webfalter/lmolight",
+        "version": "1.0.0",
+        "source": {
+                "url": "git@server.co.uk:Repository.git",
+            "type": "git",
+        "reference": "1.0.0"
         }
-    ]
+        }
+    }],
 }
